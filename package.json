@@ -1,0 +1,16 @@
+{
+  "name": "mineserver_status",
+  "version": "1.0.0",
+  "description": "Minecraft Server Status discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BRICK",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "fs": "0.0.1-security",
+    "minecraft-server-util": "^1.1.0"
+  }
+}

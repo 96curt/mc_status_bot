@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#do not share your bot token
+config.json
